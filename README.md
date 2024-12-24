@@ -8,7 +8,12 @@ The Turtle Race app allows users to bet on which turtle will win the race. Multi
 
 Users interact with the app by entering their bet through a popup text input and can observe the race as it progresses.
 
-![Turtle Race Demo](#)
+<div align="center">
+<img src="./19_turtle_race_demo.gif"
+    alt="Turtle Race Demo"
+    width="450px" height="auto">
+</div>
+
 
 ## Features
 
